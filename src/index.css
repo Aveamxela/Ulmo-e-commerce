@@ -1,0 +1,6 @@
+@import './assets/style/Reset.css';
+@import './assets/style/main.scss';
+@import './pages/homePage/homePage.scss';
+@import './pages/productPage/productPage.scss';
+@import './components/tabBar/homeTabBar/homeTabBar.scss';
+
